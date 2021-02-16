@@ -1,0 +1,4 @@
+# Change home directory
+setx HOME "\f\Study\repos\"
+# close and open again to check
+echo $HOME
