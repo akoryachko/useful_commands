@@ -4,3 +4,4 @@
 .matplotlib/
 .gitconfig
 .jupyter/
+.cache/
